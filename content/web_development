@@ -1,0 +1,58 @@
+# Web Development Guide (L1)
+
+## 🔑 Overview
+This guide introduces how to start building web applications using Next.js 14 and sets the foundation for creating tiered access applications.  
+*(L1 focuses on understanding the method and basic setup.)*
+
+---
+
+## 📚 Core Concepts
+- Next.js 14 → modern React framework for web apps  
+- App Router → file-based routing and layouts  
+- Tailwind CSS → fast styling with utility classes  
+- Tiered access → control what users can see or do based on roles  
+
+---
+
+## 🛠️ Methods / Tools
+- **Next.js** → framework for building React apps  
+- **Vercel** → deployment platform for Next.js apps  
+- **Discord Roles** → assign L1, L2, L3 to control access to resources  
+- **GitHub Repo** → store your guides, templates, and code  
+
+---
+
+## 🎯 Practical Example: Fast Next.js 14 Project
+- Step 1: Open terminal  
+- Step 2: Run starter command:  
+```bash
+npx create-next-app@latest terrakin
+'''
+Step 3: Follow prompts:
+
+TypeScript? → Yes / No (your choice)
+
+ESLint → Yes
+
+Tailwind CSS → Yes
+
+src/ directory → Yes
+
+App Router → Yes
+
+Turbopack → Yes
+
+Import alias → Yes (default @/*)
+
+Step 4: Change directory:
+Step 4: Change directory:
+
+cd terrakin
+
+
+Step 5: Run dev server:
+
+npm run dev
+
+
+Step 6: Open browser at http://localhost:3000
