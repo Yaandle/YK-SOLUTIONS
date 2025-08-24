@@ -1,4 +1,4 @@
-# YK-SOLUTIONS KNOWLEDGE HUB
+# YK-SOLUTIONS 
 
 Centralised guides and resources across multiple domains.  
 These are structured to work in GitHub, Discord, and later inside a member dashboard.
