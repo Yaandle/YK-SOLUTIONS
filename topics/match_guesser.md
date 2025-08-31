@@ -1,4 +1,4 @@
-# Sports Match Betting Guide
+# Match Guesser Guide
 
 ## 🔑 Overview
 Framework for analysing sports matches and managing betting strategies.  
