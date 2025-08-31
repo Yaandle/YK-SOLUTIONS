@@ -7,7 +7,7 @@ These are structured to work in GitHub, Discord, and later inside a member dashb
 
 ## 📂 Topics
 - [Computer Vision](./topics/computer_vision.md)  
-- [Sports Match Betting](./topics/sports_matchbetting.md)  
+- [Match Guesser](./topics/match_guesser.md)  
 - [AI Content](./topics/ai_content.md)  
 - [Financial Management](./topics/financial_management.md)  
 
